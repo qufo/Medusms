@@ -1,0 +1,23 @@
+{
+    "name": "qufo/medusms",
+    "description": "漫道短信发送",
+    "authors": [
+        {
+            "name": "qufo",
+            "email": "qufo@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Qufo\\Medusms\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
