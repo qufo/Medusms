@@ -1,6 +1,7 @@
 {
     "name": "qufo/medusms",
     "description": "漫道短信发送",
+    "license": "MIT",
     "authors": [
         {
             "name": "qufo",
