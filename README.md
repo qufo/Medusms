@@ -29,7 +29,7 @@ Publish config files:
 ```
 php artisan config:publish qufo/medusms
 ```
-for change sn, pwd,ext,sign and other configuration change ```app/config/packages/qufo/medusms/config.php```
+to change sn, pwd,ext,sign and other configuration change ```app/config/packages/qufo/medusms/config.php```
 
 Usage
 -----
